@@ -92,14 +92,14 @@
 						<dict>
 							<key>filename</key>
 							<string>spec/models/user_spec.rb</string>
-							<key>selected</key>
-							<true/>
 						</dict>
 					</array>
 					<key>expanded</key>
 					<true/>
 					<key>name</key>
 					<string>Test</string>
+					<key>selected</key>
+					<true/>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -115,6 +115,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1279, 91}, {636, 967}}</string>
+	<string>{{1275, 211}, {636, 967}}</string>
 </dict>
 </plist>
