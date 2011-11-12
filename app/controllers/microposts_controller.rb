@@ -8,6 +8,7 @@ def create
     redirect_to root_path
   else
     render 'pages/home'
+    
   end
 end  
 
